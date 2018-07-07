@@ -1,4 +1,4 @@
-// ============================================================= ABRIR SANGUCHITO
+// ============================================================= ABRIR MENU
 $("#PampaHeader .BtnMenu").click(function() {
 		$("#Pampa").toggleClass("MenuAbierto");
 });
@@ -16,4 +16,4 @@ $("#PampaHeader .BtnCarrito").click(function() {
 $("#PampaHeader .CarritoContainer .BtnCerrar").click(function() {
 		$("#Pampa").toggleClass("CarritoAbierto");
 });
-// ============================================================= ABRIR SANGUCHITO
+// ============================================================= ABRIR MENU
