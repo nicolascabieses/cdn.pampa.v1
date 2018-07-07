@@ -17,4 +17,3 @@ $("#PampaHeader .CarritoContainer .BtnCerrar").click(function() {
 		$("#Pampa").toggleClass("CarritoAbierto");
 });
 // ============================================================= ABRIR MENU ============
-// HOLA
